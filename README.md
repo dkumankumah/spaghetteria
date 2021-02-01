@@ -1,6 +1,7 @@
 # CurrentDirectory
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
+It could be that the database will disconnect, if so there will be no data to show.
 
 ## Development server
 
@@ -29,3 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Project
 This product is for the organisation https://www.spaghetteria-pastabar.nl
 This product is for company workers as an information hub.
+This project was made for educational purposes
