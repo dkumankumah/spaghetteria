@@ -30,5 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Project
 This product is for the organisation https://www.spaghetteria-pastabar.nl
 This product is for company workers as an information hub.
-This project was made for educational purposes
+This project was made for educational purposes.
+
 Main contributors: Daniel Kumankumah, Tarquin Weesie, Hajar Louazizi, Roos Lindeboom and Melissa Blokland
